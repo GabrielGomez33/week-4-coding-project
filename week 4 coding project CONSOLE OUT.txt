@@ -1,0 +1,39 @@
+Step 1 init
+First item in array - Last item in array =
+90
+Average of numbers stored in Array 'ages' =
+21
+Step 2 init
+Average str length of strings stored in Array 'names' =
+3
+Concatenated string = 
+Sam Tommy Tim Sally Buck Bob 
+STEP 3 -> I can access the last element of an array by subtracting 1 from the length of the array.
+STEP 4 -> I can access the first element of an array by using Array[0]
+Step 5 init
+4
+6
+4
+6
+5
+4
+Step 6 init
+Sum of values in ARRAY 'nameLengths' = 29
+Step 7 init
+Step 7 Test =hellohellohellohellohello
+Step 8 init
+Step 8 test = Gabriel Gomez
+Step 9 init
+Step 9 test = true
+Step 10 init
+Step 10 test = 66.57249999999999
+Step 11 init
+Step 11 test = false
+Step 12 init
+Step 12 test = true
+Step 13 init
+Step 13 Values inserted are 'gAbRiel', 'ELyth', 'Gomez'
+Step 13 test = Gabriel Elyth Gomez
+
+
+** Process exited - Return Code: 0 **
